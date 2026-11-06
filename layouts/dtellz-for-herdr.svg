@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" rx="12" fill="#131619"/>
+  <g fill="#656c72"><circle cx="17" cy="18" r="4"/><circle cx="31" cy="18" r="4"/><circle cx="45" cy="18" r="4"/></g>
+  <path d="M180 0V500M0 344H180M180 34H800M180 478H800" stroke="#262b2f"/>
+  <g font-family="sans-serif" font-size="11" fill="#84898e"><text x="16" y="60">SPACES</text><text x="16" y="369">AGENTS</text><text x="16" y="481">Settings</text><text x="194" y="492">dtellz-dark</text></g>
+  <rect x="8" y="76" width="164" height="28" rx="7" fill="#272b2e"/>
+  <g font-family="sans-serif" font-size="12" fill="#ffffff"><text x="34" y="94">Theme studio</text><text x="34" y="129">Workspace</text><text x="34" y="164">Experiments</text></g>
+  <g><circle cx="21" cy="90" r="4" fill="#bf5af2"/><circle cx="21" cy="125" r="4" fill="#30d158"/><circle cx="21" cy="160" r="4" fill="#0a84ff"/></g>
+  <rect x="191" y="5" width="106" height="24" rx="5" fill="#272b2e"/>
+  <text x="205" y="21" fill="#ffffff" font-family="sans-serif" font-size="11">Color palette</text>
+  <rect x="190" y="44" width="600" height="424" rx="10" fill="#08090a" stroke="#627b8e"/>
+  <text x="205" y="63" fill="#84898e" font-family="sans-serif" font-size="11">Terminal</text><path d="M190 74H790" stroke="#262b2f"/>
+  <g font-family="monospace" font-size="15"><text x="210" y="111" fill="#30d158">❯ <tspan fill="#ffffff">dtellz-dark</tspan></text><text x="210" y="143" fill="#ffffff">Bright white. Vivid color. Quiet chrome.</text><text x="210" y="184" fill="#656c72">STANDARD</text></g>
+  <g><rect x="210" y="200" width="72" height="32" rx="4" fill="#ff453a"/><rect x="292" y="200" width="72" height="32" rx="4" fill="#30d158"/><rect x="374" y="200" width="72" height="32" rx="4" fill="#ffd60a"/><rect x="456" y="200" width="72" height="32" rx="4" fill="#0a84ff"/><rect x="538" y="200" width="72" height="32" rx="4" fill="#bf5af2"/><rect x="620" y="200" width="72" height="32" rx="4" fill="#00c7eb"/></g>
+  <text x="210" y="273" fill="#656c72" font-family="monospace" font-size="15">BRIGHT</text>
+  <g><rect x="210" y="289" width="72" height="32" rx="4" fill="#ff6259"/><rect x="292" y="289" width="72" height="32" rx="4" fill="#39ff70"/><rect x="374" y="289" width="72" height="32" rx="4" fill="#ffe600"/><rect x="456" y="289" width="72" height="32" rx="4" fill="#35a2ff"/><rect x="538" y="289" width="72" height="32" rx="4" fill="#d94dff"/><rect x="620" y="289" width="72" height="32" rx="4" fill="#00e5ff"/></g>
+  <g font-family="monospace" font-size="14"><text x="210" y="371" fill="#30d158">✓ <tspan fill="#ffffff">Pure white main text</tspan></text><text x="210" y="399" fill="#0a84ff">● <tspan fill="#ffffff">Near-black terminal background</tspan></text><text x="210" y="427" fill="#ffd60a">◆ <tspan fill="#ffffff">Built on Herdr's default layout</tspan></text></g>
+  <g font-family="sans-serif" font-size="11"><circle cx="21" cy="396" r="3" fill="#0a84ff"/><text x="34" y="400" fill="#84898e">Working</text><circle cx="21" cy="422" r="3" fill="#ffd60a"/><text x="34" y="426" fill="#84898e">Needs you</text><circle cx="21" cy="448" r="3" fill="#30d158"/><text x="34" y="452" fill="#84898e">Done</text></g>
+</svg>

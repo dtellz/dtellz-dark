@@ -1,0 +1,12 @@
+dtellz-dark
+
+The bundled layout is adapted from Herdr main, version 0.1.13.
+Herdr: https://github.com/herdrdev/herdr-app
+Licensed under the Apache License, Version 2.0; see LICENSE.
+
+Changes: selects the dtellz-dark theme, adds a layout preview, and records
+its upstream origin. The window structure uses Herdr's installed mods.
+
+The color theme was inspired by the appearance of Rex and customized with
+pure white primary text and vivid terminal colors. No Rex code, icons,
+fonts, or other application assets are included.
